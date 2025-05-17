@@ -9,3 +9,23 @@ git add .
  git commit -m "Initial commit"
  Push to GitHub:
  git push -u origin main
+
+
+
+ to add specific file(updates)
+ Let’s say you created:
+
+
+src/newfeature/NewClass.java
+
+Run:
+git add src/newfeature/NewClass.java
+or just:
+
+git add .   ->to add all files
+to stage everything — including the new folder and its file.
+
+Then commit and push:
+
+git commit -m "Add NewClass.java under newfeature folder"
+git push
