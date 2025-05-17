@@ -1,0 +1,11 @@
+Initialize a git repo in the folder:
+git init
+Connect it to your GitHub repo:
+
+git remote add origin https://github.com/Harshita-A07/Practice_problems.git
+
+Add all files:
+git add .
+ git commit -m "Initial commit"
+ Push to GitHub:
+ git push -u origin main
