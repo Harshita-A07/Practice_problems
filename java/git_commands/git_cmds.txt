@@ -28,4 +28,4 @@ to stage everything — including the new folder and its file.
 Then commit and push:
 
 git commit -m "Add NewClass.java under newfeature folder"
-git push
+git push.
