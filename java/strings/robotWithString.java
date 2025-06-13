@@ -1,4 +1,4 @@
-package strings;
+package java.strings;
 import java.util.*;
 public class robotWithString {
    
