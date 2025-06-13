@@ -1,4 +1,4 @@
-package patterns;
+package java.patterns;
 
 public class tr {
     public static void main(String[] args) {

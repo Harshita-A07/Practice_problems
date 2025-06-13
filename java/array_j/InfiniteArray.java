@@ -1,5 +1,4 @@
-package array_j;
-
+package java.array_j;
 public class InfiniteArray {
     public static void main(String[] args) {
         int [] arr ={1,2,3,4,5,6,66,7,78,8};

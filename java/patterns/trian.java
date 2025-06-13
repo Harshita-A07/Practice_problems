@@ -1,4 +1,4 @@
-package patterns;
+package java.patterns;
 
 public class trian {
      public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package strings;
+package java.strings;
 
 public class longestcmnprefix {
     

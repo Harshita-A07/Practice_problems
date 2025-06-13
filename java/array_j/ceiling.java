@@ -31,7 +31,7 @@
 //   } 
 // }
 
-package array_j;
+package java.array_j;
 
 public class ceiling {
 
