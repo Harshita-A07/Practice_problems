@@ -1,4 +1,4 @@
-package java.array_j;
+package JAVA.array_j;
 public class linear_search {
     public static void main(String[] args) {
        // int[] a1 ={1,12,3,33};

@@ -1,4 +1,4 @@
-package java.patterns;
+package JAVA.patterns;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class box {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); 
-        System.out.println("ene n:");
+        System.out.println("entere n:");
         int n =sc.nextInt();
         pattern1(n);
     }

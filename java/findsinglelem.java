@@ -1,4 +1,4 @@
-package java;
+package JAVA;
 
 public class findsinglelem {
     public static void main(String[] args) {

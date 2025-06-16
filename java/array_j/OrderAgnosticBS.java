@@ -1,5 +1,5 @@
 
-package java.array_j;
+package JAVA.array_j;
 import java.util.*;
 import java.util.Scanner;
 

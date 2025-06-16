@@ -1,4 +1,4 @@
-package java.patterns;
+package JAVA.patterns;
 
 public class tri4 {
 

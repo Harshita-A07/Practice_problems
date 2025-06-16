@@ -1,4 +1,4 @@
-package java;
+package JAVA;
 
 //import java.util.*;
 

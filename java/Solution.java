@@ -1,3 +1,4 @@
+package JAVA;
 // import java.util.HashMap;
 
 // public class Solution {

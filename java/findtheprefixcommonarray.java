@@ -1,3 +1,4 @@
+package JAVA;
 // class Solution {
 //     public int[] findThePrefixCommonArray(int[] A, int[] B) {
 //              Map<Integer, Pair<Boolean, Boolean>> M = new HashMap<>();

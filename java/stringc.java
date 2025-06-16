@@ -1,4 +1,4 @@
-package java;
+package JAVA;
 
 public class stringc {
    public static void main(String[] args) {

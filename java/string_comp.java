@@ -1,4 +1,4 @@
-package java;
+package JAVA;
 
 public class string_comp{
     public static void main(String[] args){

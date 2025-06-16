@@ -7,6 +7,9 @@ public class minMaxDifference {
         //int nums = 9890999;
         System.out.println(minMaxDifference(nums));
     }
+    //example
+    //Input: num = 11891
+    //Output: 99009
     public static int minMaxDifference(int num) {
         
         String s = Integer.toString(num);

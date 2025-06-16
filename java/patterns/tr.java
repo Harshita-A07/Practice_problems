@@ -1,5 +1,6 @@
-package java.patterns;
+package JAVA.patterns;
 
+import java.util.Scanner;
 public class tr {
     public static void main(String[] args) {
         

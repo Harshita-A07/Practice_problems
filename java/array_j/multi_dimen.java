@@ -1,4 +1,4 @@
-package java.array_j;
+package JAVA.array_j;
 import java.util.*;
 public class multi_dimen
  {

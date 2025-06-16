@@ -1,4 +1,4 @@
-package java.array_j;
+package JAVA.array_j;
 
 
 public class floor {

@@ -1,4 +1,4 @@
-package java.pointers;
+package JAVA.pointers;
 
 public class DNF_Algorithm {
     
