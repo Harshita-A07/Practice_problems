@@ -1,5 +1,8 @@
 package JAVA.patterns;
-
+// 1  
+// 2 3
+// 3 4 5
+// n=3
 public class pattern9 {
     public static void main (String[] args){
         int n=3;
