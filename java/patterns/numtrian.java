@@ -1,6 +1,6 @@
 package JAVA.patterns;
 
-public class trian {
+public class numtrian {
      public static void main(String[] args) {
         //2diff pattern
     //     for(int i=0;i<6;i++)

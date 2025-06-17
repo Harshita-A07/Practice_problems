@@ -1,11 +1,11 @@
 package JAVA.patterns;
 import java.util.*;
 
-// 1 1 1 1 1 
-// 1 2 2 2 1 
-// 1 2 3 2 1 
-// 1 2 2 2 1 
-// 1 1 1 1 1 
+// 5 5 5 5 5  
+// 5 4 4 4 5 
+// 5 4 3 4 5 
+// 5 4 4 4 5 
+// 5 5 5 5 5  
 public class pattern8 {
     public static void main(String[] args) {
         int n=5;

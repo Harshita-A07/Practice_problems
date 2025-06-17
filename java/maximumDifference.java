@@ -1,6 +1,9 @@
 package JAVA;
+
+// Input: nums = [7,1,5,4]
+// Output: 4
 import java.util.*;
-    class maximunDifference{
+    class maximumDifference{
         public static void main(String[] args)
 {
     int arr[] ={7,1,5,4};
