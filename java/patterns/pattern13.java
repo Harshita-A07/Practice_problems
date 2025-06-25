@@ -1,5 +1,9 @@
 package JAVA.patterns;
 
+
+// A 
+// A B 
+// A B C 
 public class pattern13 {
     
     public static void main (String[] args){

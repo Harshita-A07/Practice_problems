@@ -13,7 +13,7 @@ public class pattern1 {
             int temp=i;
             for(int j=1;j<=i;j++){
                 System.out.print(temp +" ");
-                temp+=n-j;
+                //temp+=n-j;// first (temp+n) then -j
             }
             System.out.println();
         }

@@ -1,5 +1,9 @@
 package JAVA.patterns;
 
+//n=3
+//   A
+//  ABA
+// ABCBA
 
 public class pattern17 {
    
@@ -23,6 +27,7 @@ public class pattern17 {
             if(j<breakpoint){
                 ch++;
             }
+            //right half where j=4,5
             else{
                 ch--;
             }

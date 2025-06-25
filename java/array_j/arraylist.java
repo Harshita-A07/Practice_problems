@@ -22,6 +22,7 @@ public class arraylist {
         for(int i =0;i<5;i++){
             newarr.add(sc.nextInt());
         }
+        sc.close();
         //check if it is present in array or not 
         // System.out.println(arr.contains(12));
         // System.out.println(arr);
