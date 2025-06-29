@@ -5,9 +5,9 @@ import java.util.*;
 public class armstrong {
     public static void main(String[] args) {
         // Iterate over numbers from 1 to 56
-        for (int i = 1053; i <= 1639; i++) { // Corrected the condition
-            armstrong(i); // Call the method for each number
-        }
+        //for (int i = 1053; i <= 1639; i++) { // Corrected the condition
+            armstrong(153); // Call the method for each number
+       // }
     }
 
     public static void armstrong(int a) { // Make it static
