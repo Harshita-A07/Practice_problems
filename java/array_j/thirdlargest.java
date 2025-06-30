@@ -28,3 +28,5 @@ public class thirdlargest {
     }
     
 }
+//time complexity
+//O(N)
