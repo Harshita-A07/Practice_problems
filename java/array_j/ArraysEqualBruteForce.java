@@ -1,6 +1,6 @@
 package JAVA.array_j;
 
-import java.util.*;
+import java.util.*; 
 
 public class ArraysEqualBruteForce {
     public static boolean areEqual(int[] a, int[] b) {
@@ -20,6 +20,7 @@ public class ArraysEqualBruteForce {
             for (int j = 0; j < b.length; j++) {
                 if (!visited[j] && a[i] == b[j]) {
                     countB++;
+                     visited[j] = true; //isited[j]=true after counting a match. 
                 }
             }
 

@@ -17,11 +17,11 @@ public class ArraysEqualOptimized {
         feqb.put(nums,feqb.getOrDefault(nums,0)+1);
 
     }
-    return feqa.equals(feqb);
+    return feqa.equals(feqb); //Every (key, value) pair must match.
 }
     public static void main(String[] args) {
 
-        int[] a = {1, 2, 5, 3, 0};
+        int[] a = {1, 2, 5, 4, 0};
         int[] b = {2, 4, 5, 0, 1};
 
         System.out.println(areEqual(a, b)); // true
